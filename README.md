@@ -1,6 +1,8 @@
 # metafrontier
 Estimate a Metafrontier Production Function Use metafrontier With (In) R Software
 
+https://www.youtube.com/watch?v=8plY8tWyzjw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
